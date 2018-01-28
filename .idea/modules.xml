@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/design-pattern-scrapyard.iml" filepath="$PROJECT_DIR$/.idea/modules/design-pattern-scrapyard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/design-pattern-scrapyard_main.iml" filepath="$PROJECT_DIR$/.idea/modules/design-pattern-scrapyard_main.iml" group="design-pattern-scrapyard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/design-pattern-scrapyard_test.iml" filepath="$PROJECT_DIR$/.idea/modules/design-pattern-scrapyard_test.iml" group="design-pattern-scrapyard" />
+    </modules>
+  </component>
+</project>
