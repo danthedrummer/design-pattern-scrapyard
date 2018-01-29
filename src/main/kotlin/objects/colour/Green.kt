@@ -1,4 +1,4 @@
-package colour
+package objects.colour
 
 class Green : Colour {
 

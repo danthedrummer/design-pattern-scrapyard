@@ -1,6 +1,6 @@
 package factory
 
-import shape.*
+import objects.shape.*
 
 class ShapeFactory {
 

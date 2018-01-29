@@ -1,4 +1,4 @@
-package shape
+package objects.shape
 
 enum class ShapeType {
     SQUARE,

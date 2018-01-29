@@ -1,4 +1,4 @@
-package shape
+package objects.shape
 
 class Rectangle : Shape {
 
