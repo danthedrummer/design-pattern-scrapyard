@@ -1,5 +1,7 @@
 package factory
 
+import shape.*
+
 class ShapeFactory {
 
     fun getShape(shapeType : ShapeType) : Shape {

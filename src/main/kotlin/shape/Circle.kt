@@ -1,4 +1,4 @@
-package factory
+package shape
 
 class Circle : Shape {
 

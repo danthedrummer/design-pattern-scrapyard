@@ -1,4 +1,4 @@
-package factory
+package shape
 
 interface Shape {
     fun draw()

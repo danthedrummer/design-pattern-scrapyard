@@ -1,5 +1,7 @@
 package factory
 
+import shape.ShapeType
+
 fun main(args : Array<String>) {
     val shapeFactory = ShapeFactory()
 
