@@ -1,8 +1,10 @@
 package objects.shape
 
-class Square : Shape {
+class Square(override var id: String) : Shape() {
+
+    override val type: String = "Square"
 
     override fun draw() {
-        println("Drawing square")
+        println("Drawing $type $id")
     }
 }

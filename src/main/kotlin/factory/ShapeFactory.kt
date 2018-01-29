@@ -6,9 +6,9 @@ class ShapeFactory {
 
     fun getShape(shapeType : ShapeType) : Shape {
         return when(shapeType) {
-            ShapeType.SQUARE -> Square()
-            ShapeType.RECTANGLE -> Rectangle()
-            ShapeType.CIRCLE -> Circle()
+            ShapeType.SQUARE -> Square("1")
+            ShapeType.RECTANGLE -> Rectangle("1")
+            ShapeType.CIRCLE -> Circle("1")
         }
     }
 }
